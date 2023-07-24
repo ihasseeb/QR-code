@@ -1,0 +1,34 @@
+body{
+  background-color: #A1CCD1;
+}
+
+.top-order{
+  margin-left:  33.5rem;
+  margin-top: 20px;
+  border: 10px solid white;
+  border-radius: 20px;
+
+  margin-right: 530px;
+  background-color: white;
+
+}
+
+.text{
+  width: 90%;
+  margin: 15px 575px 130px auto;
+
+}
+
+h3{
+margin-top: 10px;
+width:240px;
+margin-left: 10px;
+font-family: 'Arial Narrow', sans-serif;
+}
+p{
+  font-family: 'calibri' , sans-serif;
+}
+
+.h4{
+  text-align: center;
+  margin-top: 40px;
